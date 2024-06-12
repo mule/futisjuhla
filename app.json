@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "7173810c-b0dd-4157-b4d5-96064e5a9840"
+      }
+    },
+    "owner": "japurane"
   }
 }
